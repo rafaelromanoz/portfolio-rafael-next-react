@@ -117,6 +117,13 @@ const Projects = () => {
           >
             <DropdownItem>Docker TODO-List(Docker)</DropdownItem>
           </a>
+          <DropdownDivider/>
+          <a
+            href="https://github.com/rafaelromanoz/react-testing-library-project"
+            target="_blank"
+          >
+            <DropdownItem>React Testing Library (RTL)</DropdownItem>
+          </a>
         </DropdownMenu>
       </Dropdown>
     </div>

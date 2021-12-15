@@ -6,7 +6,7 @@ export const projects = [
       tags: ['React', 'Redux', 'CSS3', 'HTML5'],
     source: 'https://github.com/rafaelromanoz/recipes-app-react',
     visit: 'https://rafaelromanoz.github.io/recipes-app-react/',
-    id: 0,
+    id: 0
   },
   {
     type: 'front',
@@ -16,7 +16,7 @@ export const projects = [
     tags: ['React', 'Redux', 'TypeScript', 'HTML5', 'Bootstrap'],
     source: 'https://github.com/rafaelromanoz/trybewallet-hooks-typescript',
     visit: 'https://rafaelromanoz.github.io/trybewallet-hooks-typescript/',
-    id: 1,
+    id: 1
   },
   {
     title: 'Trivia Game',
@@ -25,7 +25,7 @@ export const projects = [
       tags: ['React', 'Redux', 'CSS3','HTML5'],
     source: 'https://github.com/rafaelromanoz/trivia-react-redux',
     visit: 'https://rafaelromanoz.github.io/trivia-react-redux/',
-    id: 2,
+    id: 2
   }, 
   {
     title: 'Star Wars Search Planet',
@@ -34,7 +34,7 @@ export const projects = [
       tags: ['React', 'Context API', 'CSS3','HTML5', 'Material UI'],
     source: 'https://github.com/rafaelromanoz/starwars-planet-react',
     visit: 'https://starwars-planet-react.vercel.app/',
-    id: 3,
+    id: 3
   }
 ];
 
