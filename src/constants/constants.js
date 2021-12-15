@@ -9,6 +9,7 @@ export const projects = [
     id: 0,
   },
   {
+    type: 'front',
     title: 'Trybe Wallet TypeScript',
     description:"O projeto foi criado no intuito de itensificar os estudos de front-end utilizando React, Redux, EsLint para qualidade do código apresentado utilizando o padrão Airnb, esse projeto possui uma tela de login e após entrar no app é possível cadastrar atividades e fazer cotações das moedas em tempo real utilizando a api.",
     image: '/images/ezgif.com-gif-maker (1).gif',
@@ -25,17 +26,20 @@ export const projects = [
     source: 'https://github.com/rafaelromanoz/trivia-react-redux',
     visit: 'https://rafaelromanoz.github.io/trivia-react-redux/',
     id: 2,
-  },
+  }
+];
+
+export const projectsbe = [
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
+    title: 'Talker Manager API',
+    description: "Construção de uma API utilizando NodeJS e Express para realizar, operações CRUD (create, read, update, delete), também realizar validações de email, data entre outros, a base de dados desse projeto é o arquivo talker.json.",
+    image: '/images/nodejs-logo-FBE122E377-seeklogo.com.png',
+    tags: ['Node', 'Express', 'Axios'],
+    source: 'https://github.com/rafaelromanoz/talker-manager-api-node',
     visit: 'https://google.com',
     id: 3,
-  },
-];
+  }
+]
 
 export const TimeLineData = [
   { year: 2017, text: 'Started my journey', },
