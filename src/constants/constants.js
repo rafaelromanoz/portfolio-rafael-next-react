@@ -26,20 +26,17 @@ export const projects = [
     source: 'https://github.com/rafaelromanoz/trivia-react-redux',
     visit: 'https://rafaelromanoz.github.io/trivia-react-redux/',
     id: 2,
-  }
-];
-
-export const projectsbe = [
+  }, 
   {
-    title: 'Talker Manager API',
-    description: "Construção de uma API utilizando NodeJS e Express para realizar, operações CRUD (create, read, update, delete), também realizar validações de email, data entre outros, a base de dados desse projeto é o arquivo talker.json.",
-    image: '/images/nodejs-logo-FBE122E377-seeklogo.com.png',
-    tags: ['Node', 'Express', 'Axios'],
-    source: 'https://github.com/rafaelromanoz/talker-manager-api-node',
-    visit: 'https://google.com',
+    title: 'Star Wars Search Planet',
+    description: "O projeto Star Wars Planet foi desenvolvido utilizando uma API de dados do Star Wars, junto com React e Context API, nesse app pode se filtrar por nome e outras características dos planetas de Star Wars.",
+      image: '/images/sw.gif',
+      tags: ['React', 'Context API', 'CSS3','HTML5', 'Material UI'],
+    source: 'https://github.com/rafaelromanoz/starwars-planet-react',
+    visit: 'https://starwars-planet-react.vercel.app/',
     id: 3,
   }
-]
+];
 
 export const TimeLineData = [
   { year: 2017, text: 'Started my journey', },
