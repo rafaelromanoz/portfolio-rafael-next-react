@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
-      Vamo que vamo
+      Conhecimentos e experiências
     </SectionText>
     <List>
       <ListItem>
@@ -19,8 +19,15 @@ const Technologies = () =>  (
             Front-end
           </ListTitle>
           <ListParagraph>
-            Experience with react <br/>
-            React.js
+            Conhecimento em React<br/>
+            JavaScript <br/>
+            TypeScript <br />
+            Expressões Regulares (Regex) <br />
+            React.js <br/>
+            Redux <br/>
+            Context API <br/>
+            Bootstrap <br/>
+            Bulma <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,8 +38,12 @@ const Technologies = () =>  (
             Back-end
           </ListTitle>
           <ListParagraph>
-            Experience with react <br/>
-            Node.js and Databases
+            Conhecimento em Node e Banco de Dados <br/>
+            JavaScript <br />
+            Node.js <br/>
+            Express <br/>
+            MySql <br/>
+            MongoDB <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>

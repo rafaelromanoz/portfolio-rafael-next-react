@@ -39,9 +39,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2014, text: 'Faculdade de Sistemas de Informação', },
+  { year: 2015, text: 'Estagiário Prefeitura Municipal de Passos (Central de Processamento de Dados)', },
+  { year: 2016, text: 'Tivit cliente Votorantim Cimentos - Técnico de Informática', },
+  { year: 2019, text: 'Comecei minha caminhada para desenvolvedor Web', },
   { year: 2021, text: 'Started my own platform', },
 ];
