@@ -68,7 +68,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2014, text: 'Faculdade de Sistemas de Informação', },
   { year: 2015, text: 'Estágio Prefeitura Municipal de Passos (Central de Processamento de Dados)', },
-  { year: 2016, text: 'Tivit cliente Votorantim Cimentos - Técnico de Informática', },
+  { year: 2016, text: 'Votorantim Cimentos - Técnico de Informática', },
   { year: 2020, text: 'Justiça Federal - Técnico de Informática', },
   { year: 2021, text: 'Em março, caminhando para outro ramo do TI que sinto muito prazer em estudar e fazer que é a programação. Cursando Desenvolvimento Web na Trybe ', },
 ];
