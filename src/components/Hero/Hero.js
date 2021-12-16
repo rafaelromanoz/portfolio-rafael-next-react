@@ -12,7 +12,7 @@ const Hero = (props) => (
         bem vindo ao meu portfólio pessoal.
       </SectionTitle>
       <SectionText>
-        Vamo que vamo
+        Veja abaixo, meus projetos, conhecimentos, um pouco sobre a minha tragetória e meus contatos.
       </SectionText>
       <Button onClick={() => window.location = 'https://github.com/rafaelromanoz'}>Veja mais</Button>
     </LeftSection>

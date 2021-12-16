@@ -124,6 +124,13 @@ const Projects = () => {
           >
             <DropdownItem>React Testing Library (RTL)</DropdownItem>
           </a>
+          <DropdownDivider/>
+          <a
+            href="https://github.com/rafaelromanoz/jest-tests"
+            target="_blank"
+          >
+            <DropdownItem>Jest Tests (Jest, Mocks)</DropdownItem>
+          </a>
         </DropdownMenu>
       </Dropdown>
     </div>
