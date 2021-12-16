@@ -37,7 +37,7 @@ const Projects = () => {
           {projects.map(
             ({ id, image, title, description, tags, source, visit, type }) => (
               <BlogCard key={id}>
-                <Img src={image} />
+                <Img src={image}/>
                 <TitleContent>
                   <HeaderThree title>{title}</HeaderThree>
                   <Hr />
@@ -52,8 +52,8 @@ const Projects = () => {
                   </TagList>
                 </div>
                 <UtilityList>
-                  <ExternalLinks href={visit}>Visite</ExternalLinks>
-                  <ExternalLinks href={source}>Código</ExternalLinks>
+                  <ExternalLinks href={visit} target="_blank">Visite</ExternalLinks>
+                  <ExternalLinks href={source} target="_blank">Código</ExternalLinks>
                 </UtilityList>
               </BlogCard>
             )
