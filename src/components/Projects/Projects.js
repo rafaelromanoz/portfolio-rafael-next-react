@@ -132,6 +132,12 @@ const Projects = () => {
             <DropdownItem>Jest Tests (Jest, Mocks)</DropdownItem>
           </a>
         </DropdownMenu>
+        <a
+            href="https://github.com/rafaelromanoz/sale_system_backend"
+            target="_blank"
+          >
+            <DropdownItem>Sale System API(Back-end)</DropdownItem>
+          </a>
       </Dropdown>
     </div>
   );
