@@ -138,6 +138,13 @@ const Projects = () => {
           >
             <DropdownItem>Sale System API(Back-end)</DropdownItem>
           </a>
+          <DropdownDivider />
+          <a
+            href="https://github.com/rafaelromanoz/store-manager-api"
+            target="_blank"
+          >
+            <DropdownItem>Store Manager(API)</DropdownItem>
+          </a>
         </DropdownMenu>
       </Dropdown>
     </div>
